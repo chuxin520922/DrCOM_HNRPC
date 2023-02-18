@@ -1,8 +1,9 @@
 # DrCOM_HNRPC
-校园网自动认证说明--V1.0
-![image](https://user-images.githubusercontent.com/76712168/219827254-e4648f12-1cf0-4002-94eb-9f0aed86f625.png)
+# 校园网自动认证说明--V1.0
 必须解压文件 
-TXT文件说明：
+![image](https://user-images.githubusercontent.com/76712168/219827254-e4648f12-1cf0-4002-94eb-9f0aed86f625.png)
+
+### TXT文件说明：
 
 1、修改手机号（12345678901改成你自己的）
 
